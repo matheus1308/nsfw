@@ -1,30 +1,15 @@
 const help = (prefix) => {
-	return `         *NABUTO LS O BRABO*
+	return `         *THZIN*
 
  INFO:✅
 
- *DONO* : NABUTO LS
- PARCEIRIAS: GUSTAVO, ITACHI DO HYPE
+ *DONO* : THZIN
+ PARCEIRIAS: NENHUMA SE QUISE FECHA
 
  *WHATSAPPS DOS PROPRIETÁRIOS* :
  
- *DONO* (NABUTO LS): wa.me/556993733829
+ *DONO* (THZIN): wa.me/19989815343
  
-
-
- ITACHI DO HYPE: wa.me/555599368698
-
- GUSTAVO: wa.me/5519994414618
-
- 
- *CANAIS NO YOUTUBE* :
-
- *CANAL DO DONO* : https://youtube.com/channel/UCZEtf9AlsC2zsJQwrfW-44w
-
- *CANAL DO ITACHI* : https://youtube.com/channel/UC0zqqFaRFj4QdvCHkUzLHTA
-
-
- *CANAL DO GUSTAVO* : NÃO TEM❌
 
 
    [𝑨𝑳𝑮𝑼𝑵𝑺 𝑪𝑶𝑴𝑨𝑵𝑫𝑶𝑺 𝑵𝑨̃𝑶 𝑬𝑺𝑻𝑨̃𝑶 𝑭𝑼𝑵𝑪𝑰𝑶𝑵𝑨𝑵𝑫𝑶, 𝑺𝑬 𝑨𝑪𝑯𝑨𝑹 𝑹𝑼𝑰𝑴 𝑬́ 𝑺𝑰𝑴𝑷𝑳𝑬𝑺 𝑷𝑨𝑹𝑨 𝑫𝑬 𝑼𝑺𝑨𝑹, 𝑮𝑹𝑨𝑻𝑶!]
